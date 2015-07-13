@@ -1,0 +1,29 @@
+{
+  "name": "magnet-add-this",
+  "version": "0.0.1",
+  "authors": [
+    "Tanmay <thinktanmay@gmail.com>"
+  ],
+  "description": "Magnet - Add This JS for Angular App. https://s7.addthis.com/js/300/addthis_widget.js",
+  "main": "magnet-add-this.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "magnet",
+    "add-this",
+    "share"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
